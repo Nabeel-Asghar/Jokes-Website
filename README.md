@@ -5,6 +5,6 @@ A fully functional joke website that allows you to view, rate, review, and creat
 
 Once logged in, you are greeted by the welcome home. From there you can do multiple actions like search for jokes, friends, or even add your own jokes.
 
-![image](search.PNG)
+![image](serach.PNG)
 
 ![image](addjokes.PNG)
